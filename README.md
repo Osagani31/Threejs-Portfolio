@@ -40,8 +40,7 @@ Youtube link- https://youtu.be/Z6ffWkJ5I18?feature=shared
 # Screenshots
 
 <img width="1910" height="1010" alt="Screenshot 2025-08-04 224155" src="https://github.com/user-attachments/assets/cf01c440-3e67-44cb-9ce7-95053292c429" />
-<img width="1919" height="858" alt="Screenshot 2025-08-04 224206" src="https://github.com/user-attachments/assets/fb52b73e-0b8f-4ad1-88ab-7830833731bb" />
-<img width="1915" height="1015" alt="Screenshot 2025-08-04 224219" src="https://github.com/user-attachments/assets/56cd0440-a77d-40e6-a482-518f3f6989ce" />
+
 
 
 
